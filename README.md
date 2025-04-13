@@ -53,8 +53,7 @@ The system will:
 - Fetch, filter, and generate a markdown newsletter in /output.
 - Convert the markdown to PDF in /output/pdf.
 
-📰 Newsletter Output
-Each generated newsletter will include:
+📰 Newsletter Output includes:
 - A highlights section (top 3 recent articles).
 - Categorized articles based on their content.
 - Enhanced summaries.
