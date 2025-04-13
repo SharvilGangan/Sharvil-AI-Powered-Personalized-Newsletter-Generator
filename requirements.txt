@@ -1,0 +1,7 @@
+feedparser
+transformers
+sentence-transformers
+scikit-learn
+beautifulsoup4
+requests
+jinja2

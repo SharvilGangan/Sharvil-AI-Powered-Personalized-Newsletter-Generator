@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Alex Parker",
+      "age": 28,
+      "country": "USA",
+      "tagline": "Tech Enthusiast",
+      "interests": ["AI", "cybersecurity", "blockchain", "startups", "programming"],
+      "preferred_sources": ["TechCrunch", "Wired Tech", "Ars Technica", "MIT Tech Review"]
+    },
+    {
+      "name": "Priya Sharma",
+      "age": 35,
+      "country": "India",
+      "tagline": "Finance & Business Guru",
+      "interests": ["Global markets", "startups", "fintech", "cryptocurrency", "economics"],
+      "preferred_sources": ["Bloomberg", "Financial Times", "Forbes", "CoinDesk"]
+    },
+    {
+      "name": "Marco Rossi",
+      "age": 30,
+      "country": "Italy",
+      "tagline": "Sports Journalist",
+      "interests": ["Football", "F1", "NBA", "Olympic sports", "esports"],
+      "preferred_sources": ["ESPN", "BBC Sport", "Sky Sports F1", "The Athletic"]
+    },
+    {
+      "name": "Lisa Thompson",
+      "age": 24,
+      "country": "UK",
+      "tagline": "Entertainment Buff",
+      "interests": ["Movies", "celebrity news", "TV shows", "music", "books"],
+      "preferred_sources": ["Variety", "Rolling Stone", "Billboard", "Hollywood Reporter"]
+    },
+    {
+      "name": "David Martinez",
+      "age": 40,
+      "country": "Spain",
+      "tagline": "Science & Space Nerd",
+      "interests": ["Space exploration", "AI", "biotech", "physics", "renewable energy"],
+      "preferred_sources": ["NASA", "Science Daily", "Nature", "Ars Technica Science"]
+    }
+  ]
+  

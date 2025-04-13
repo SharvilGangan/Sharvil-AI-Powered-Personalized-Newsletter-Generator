@@ -1,0 +1,23 @@
+{
+    "Technology": [
+      "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "https://techcrunch.com/feed/"
+    ],
+    "Finance": [
+      "https://www.bloomberg.com/feed/podcast/etf-report.xml",
+      "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    ],
+    "Sports": [
+      "http://www.espn.com/espn/rss/news",
+      "http://feeds.bbci.co.uk/sport/rss.xml?edition=uk"
+    ],
+    "Entertainment": [
+      "https://variety.com/feed/",
+      "https://www.billboard.com/feed/"
+    ],
+    "Science": [
+      "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "https://www.sciencedaily.com/rss/top/science.xml"
+    ]
+  }
+  
