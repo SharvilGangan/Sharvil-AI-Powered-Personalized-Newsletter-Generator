@@ -60,14 +60,6 @@ Each generated newsletter will include:
 - Enhanced summaries.
 - Clean markdown layout, converted into PDF with consistent styling.
 
-🧾 Converting Markdown to PDF
-After generating .md files, run:
-python converter.py
-
-This will:
-Clean the markdown content.
-Convert it into a formatted .pdf version using wkhtmltopdf.
-
 ⚠️ Notes
 The system will only select articles that match both user interests and preferred sources.
 If no matching articles are found, a placeholder message will be written to the newsletter.
