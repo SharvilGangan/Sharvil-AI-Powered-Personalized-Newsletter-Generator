@@ -41,10 +41,10 @@ AI Newsletter Generator/
 Update its path in converter.py:
 path_to_wkhtmltopdf = r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe'
 
-🧑‍💼 User Profiles
+🧑‍💼 User Profiles:
 All user preferences are saved in users/user_profiles.json.
 
-🚀 How to Run
+🚀 How to Run:
 Run the program from the terminal:
 python main.py
 
