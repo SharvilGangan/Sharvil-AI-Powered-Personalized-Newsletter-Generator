@@ -10,12 +10,14 @@ def clean_and_generate_pdf(input_dir, output_dir):
     Process all markdown files in the input directory:
     1. Remove unwanted text like "Sure, here is the summary:"
     2. Convert clean markdown to PDF
-    3. Save in the output directory
+    3. Save the PDF in the output/pdf directory
     """
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
+    pdf_output_dir = os.path.join(output_dir, 'pdf')
+    os.makedirs(pdf_output_dir, exist_ok=True)
     
-    # Get all markdown files
+    # Get all markdown files in the input directory
     md_files = list(Path(input_dir).glob('*.md'))
     
     if not md_files:
@@ -41,7 +43,7 @@ def clean_and_generate_pdf(input_dir, output_dir):
         # Remove unwanted text patterns
         clean_content = re.sub(r'Sure, here is the summary:\s*', '', content)
         
-        # Save cleaned markdown
+        # Save cleaned markdown to main output folder
         clean_md_path = os.path.join(output_dir, f"{file_name}_clean.md")
         with open(clean_md_path, 'w', encoding='utf-8') as f:
             f.write(clean_content)
@@ -49,7 +51,7 @@ def clean_and_generate_pdf(input_dir, output_dir):
         # Convert to HTML first (for better styling)
         html_content = markdown.markdown(clean_content)
         
-        # Add basic styling
+        # Add basic styling to HTML
         styled_html = f"""
         <!DOCTYPE html>
         <html>
@@ -82,13 +84,13 @@ def clean_and_generate_pdf(input_dir, output_dir):
         </html>
         """
         
-        # Save the HTML file
+        # Save the HTML file to the main output folder
         html_path = os.path.join(output_dir, f"{file_name}.html")
         with open(html_path, 'w', encoding='utf-8') as f:
             f.write(styled_html)
         
         # Convert HTML to PDF
-        pdf_path = os.path.join(output_dir, f"{file_name}.pdf")
+        pdf_path = os.path.join(pdf_output_dir, f"{file_name}.pdf")
         try:
             # Use pdfkit with the specified configuration
             pdfkit.from_file(html_path, pdf_path, configuration=config)
@@ -99,6 +101,8 @@ def clean_and_generate_pdf(input_dir, output_dir):
 
 if __name__ == "__main__":
     input_directory = r"D:\AI Newsletter Generator\output"
-    output_directory = r"D:\AI Newsletter Generator\output\pdf"
+    output_directory = r"D:\AI Newsletter Generator\output"
     
     clean_and_generate_pdf(input_directory, output_directory)
+
+

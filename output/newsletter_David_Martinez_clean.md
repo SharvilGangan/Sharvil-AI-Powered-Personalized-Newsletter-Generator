@@ -55,18 +55,18 @@ system by studying the heliosphere, a region beyond Earth's atmosphere that is f
 magnetic fields.
 
 - [Author Correction: Sulfide-rich continental roots at cratonic margins formed by carbonated melts](https://www.nature.com/articles/s41586-025-08911-5)
-  > Sure, here is the summary:  The article discusses the formation of sulfide-rich continental roots at the margins of
+  > The article discusses the formation of sulfide-rich continental roots at the margins of
 ancient volcanic provinces. It highlights the presence of carbonated melts, suggesting that the roots formed through the
 interaction between magma and water. The roots, formed by the solidification of carbonated fluids, are estimated to be
 around 1.5 billion years old and provide insights into the early history of the Earth.
 
 - [Mystery of medieval manuscripts revealed by ancient DNA](https://www.nature.com/articles/d41586-025-01108-w)
-  > Sure, here is the summary:  Medieval manuscripts have puzzled historians with their intricate and intricate bindings. A
+  > Medieval manuscripts have puzzled historians with their intricate and intricate bindings. A
 new study reveals that the covers of these books may be made of sealskin, indicating long-distance trade networks and
 cultural exchange between distant regions.
 
 - [Liquids in a glass recover a graceful shape even after being shaken](https://www.nature.com/articles/d41586-025-01109-9)
-  > Sure, here is the summary:  A team of scientists has discovered that liquids in a glass can recover their graceful shape
+  > A team of scientists has discovered that liquids in a glass can recover their graceful shape
 even after being shaken. The liquid is composed of oil and water with magnetic nickel particles. The particles align
 themselves to create a shape that resembles a Grecian urn, regardless of the orientation of the glass.
 

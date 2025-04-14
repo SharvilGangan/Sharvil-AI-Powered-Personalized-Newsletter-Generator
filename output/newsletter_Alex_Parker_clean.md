@@ -48,7 +48,7 @@ towards a "portfolio approach" has allowed the foundation to tap into various ar
 cloud infrastructure, security, digital wallets, enterprise search, fintech, and mapping.
 
 - [Why an Amazon driver could be the one who saves your life](https://techcrunch.com/2025/04/12/could-an-amazon-driver-could-be-the-one-who-saves-your-life/)
-  > Sure, here is the summary:  Amazon is exploring using its vast logistics network and expanding medical presence to save
+  > Amazon is exploring using its vast logistics network and expanding medical presence to save
 lives. They have started a pilot program equipping delivery vans with defibrillators, highlighting their potential to
 provide emergency medical assistance at the scene of an accident or medical emergency.
 

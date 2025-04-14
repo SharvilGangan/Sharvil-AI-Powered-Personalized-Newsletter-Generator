@@ -14,7 +14,7 @@ club until next season. This latest contract extension showcases the midfielder'
 contributing to his remarkable goal-scoring and assist records.
 
 - [Leaky Spurs leave Postecoglou facing date with destiny](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
-  > Sure, here is the summary:  Spurs are set to face a date with destiny in the Europa League after losing 3-0 to Wolves at
+  > Spurs are set to face a date with destiny in the Europa League after losing 3-0 to Wolves at
 Molineux. The match was a repeat of their opening-night defeat, where Tottenham conceded three goals in the first half.
 With this setback, Spurs' hopes of qualifying for the lucrative tournament appear to be fading quickly.
 
@@ -44,7 +44,7 @@ LSU official confirmed the news to ESPN.
 despite missing the last four games of the regular season due to a sprained left ankle.
 
 - [Maxey, PG on Sixers' woes: Only way to go is up](https://www.espn.com/nba/story/_/id/44658463/paul-george-tyrese-maxey-say-sixers-compete-lost-season)
-  > Sure, here is the summary:  The article suggests that the 76ers have the potential to return to championship contention
+  > The article suggests that the 76ers have the potential to return to championship contention
 in the upcoming season due to the combination of Maxey and George's experience and capabilities.
 
 - [Piastri dominates in Bahrain as Russell holds on to second](https://www.bbc.com/sport/formula1/articles/c9w81e2lv8po)
@@ -65,7 +65,7 @@ speculation, he deflects by stating that "there's nothing to confirm right now".
 analysts speculating about the future of his future at the club.
 
 - [Leaky Spurs leave Postecoglou facing date with destiny](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
-  > Sure, here is the summary:  Spurs are set to face a date with destiny in the Europa League after losing 3-0 to Wolves at
+  > Spurs are set to face a date with destiny in the Europa League after losing 3-0 to Wolves at
 Molineux. The match was a repeat of their opening-night defeat, where Tottenham conceded three goals in the first half.
 With this setback, Spurs' hopes of qualifying for the lucrative tournament appear to be fading quickly.
 

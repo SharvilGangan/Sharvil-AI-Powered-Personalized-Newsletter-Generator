@@ -44,7 +44,7 @@ million, maintaining its top spot at the box office. However, ticket sales were 
 a 50% decline from its record-breaking $162.7 million opening.
 
 - [Green Day Alters Lyrics to Reference Israel-Palestine War During Epic Coachella Set: ‘Runnin’ Away From Pain Like the Kids From Palestine’](https://variety.com/2025/music/news/green-day-israel-palestine-coachella-headlining-performance-1236368327/)
-  > Sure, here is the summary:  Green Day altered the lyrics of their song "Jesus of Suburbia" during their headlining
+  > Green Day altered the lyrics of their song "Jesus of Suburbia" during their headlining
 performance at Coachella on Saturday night to reference the ongoing Israel-Palestine war. The lyrics were changed to
 reflect the violence and suffering of the Palestinian people.
 
