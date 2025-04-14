@@ -5,3 +5,7 @@ scikit-learn
 beautifulsoup4
 requests
 jinja2
+pdfkit
+markdown
+textwrap
+ollama
