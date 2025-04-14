@@ -11,6 +11,10 @@ Matching articles to users based on their interests and preferred sources.
 Generating clean, structured markdown newsletters.
 Converting markdown files into professional-looking PDF newsletters.
 
+TO VIEW THE OUPUT:
+- Follow the path: output -->  pdf
+- The "pdf" folder contains the newsletters generated in the pdf file format for each User!
+
 📁 Directory Structure:
 AI Newsletter Generator/
 ├── src/
@@ -29,7 +33,6 @@ AI Newsletter Generator/
 │       └── (converted .pdf newsletters)
 ├── requirements.txt
 └── README.md
-
 
 ⚙️ Setup
 1) Install dependencies:
